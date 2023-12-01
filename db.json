@@ -1,0 +1,229 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Sơ mi basic dáng suông",
+      "type": "ÁO SƠ MI",
+      "priceSale":200000,
+      "price": 290000,
+      "img": "images/product/Ao-So-Mi.images/image1.jpeg",
+      "imgHover": "images/product/Ao-So-Mi.images/image1.1.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Sơ mi tay xoắn",
+      "type": "ÁO SƠ MI",
+      "priceSale": 249000,
+      "price": 320000,
+      "img": "images/product/Ao-So-Mi.images/images2.jpeg",
+      "imgHover": "images/product/Ao-So-Mi.images/image2.1.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Sơ mi basic vai rơi HT",
+      "type": "ÁO SƠ MI",
+      "priceSale": 249000,
+      "price": 360000,
+      "img": "images/product/Ao-So-Mi.images/image3.jpeg",
+      "imghover": "images/product/Ao-So-Mi.images/image3.1.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Sơ mi suông tay thép 2023",
+      "type": "ÁO SƠ MI",
+      "priceSale": 269000,
+      "price": 710000,
+      "img": "images/product/Ao-So-Mi.images/image4.jpeg",
+      "imgHover": "images/product/Ao-So-Mi.images/image4.1.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Sơ mi tay phổng dài",
+      "type": "ÁO SƠ MI KIỂU",
+      "priceSale": 249000,
+      "price": 310000,
+      "img": "images/product/Ao-So-Mi-kieu.image/image1.jpeg",
+      "imgHover": "images/product/Ao-So-Mi-kieu.image/image1.1.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Sơ mi croptop phối cổ",
+      "type": "ÁO SƠ MI KIỂU",
+      "priceSale": 249000,
+      "price": 310000,
+      "img": "images/product/Ao-So-Mi-kieu.image/image2.jpeg",
+      "imgHover": "images/product/Ao-So-Mi-kieu.image/image2.1.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Sơ mi đá Ruby Jane",
+      "type": "ÁO SƠ MI KIỂU",
+      "priceSale": 349000,
+      "price": 419000,
+      "img": "images/product/Ao-So-Mi-kieu.image/image3.jpeg",
+      "imgHover": "images/product/Ao-So-Mi-kieu.image/image3.1.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Sơ mi kiểu princess",
+      "type": "ÁO SƠ MI KIỂU",
+      "priceSale": 249000,
+      "price": 310000,
+      "img": "images/product/Ao-So-Mi-kieu.image/image4.jpeg",
+      "imgHover": "images/product/Ao-So-Mi-kieu.image/image4.1.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Áo thun cổ leo basic",
+      "type": "ÁO THUN",
+      "priceSale": 159000,
+      "price": 209000,
+      "img": "images/product/Ao-thun.image/image1.jpeg",
+      "imgHover": "images/product/Ao-thun.image/image1.1.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Áo thun ren ôm",
+      "type": "ÁO THUN",
+      "priceSale": 179000,
+      "price": 240000,
+      "img": "images/product/Ao-thun.image/image4.jpeg",
+      "imgHover": "images/product/Ao-thun.image/image4.1.jpeg"
+    },
+    {
+      "id": 11,
+      "title": "Áo thun bổ lưng sau",
+      "type": "ÁO THUN",
+      "priceSale": 399000,
+      "price": 169000,
+      "img": "images/product/Ao-thun.image/image2.jpeg",
+      "imgHover": "images/product/Ao-thun.image/image2.1.jpeg"
+    },
+    {
+      "id": 12,
+      "title": "Áo thun cổ leo tay cộc",
+      "type": "ÁO THUN",
+      "priceSale": 119000,
+      "price": 139000,
+      "img": "images/product/Ao-thun.image/image3.jpeg",
+      "imgHover": "images/product/Ao-thun.image/image3.1.jpeg"
+    },
+    {
+      "id": 13,
+      "title": "Khoác phối da kiểu sporty",
+      "type": "ÁO KHOÁC",
+      "priceSale": 499000,
+      "price": 609000,
+      "img": "images/product/Ao-khoac.image/image2.jpeg",
+      "imgHover": "images/product/Ao-khoac.image/image2.1.jpeg"
+    },
+    {
+      "id": 14,
+      "title": "Áo khoác HT ngắn",
+      "type": "ÁO KHOÁC",
+      "priceSale": 499000,
+      "price": 600000,
+      "img": "images/product/Ao-khoac.image/image1.jpeg",
+      "imgHover": "images/product/Ao-khoac.image/image1.1.jpeg"
+    },
+    {
+      "id": 15,
+      "title": "Măng tô tay phổng",
+      "type": "ÁO MĂNG TÔ",
+      "priceSale": 799000,
+      "price": 1029000,
+      "img": "images/product/Ao-Mang-To.image/image1.jpeg",
+      "imgHover": "images/product/Ao-Mang-To.image/image1.1.jpeg"
+    },
+    {
+      "id": 16,
+      "title": "Măng tô lá cổ to tay zaclang",
+      "type": "ÁO MĂNG TÔ",
+      "priceSale": 349000,
+      "price": 1029000,
+      "img": "images/product/Ao-Mang-To.image/image2.jpg",
+      "imgHover":"images/product/Ao-Mang-To.image/image2.1.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Set áo phối tay CV",
+      "type": "",
+      "priceSale": 799000,
+      "price": 1029000,
+      "img": "images/option1.imges/option1-img1.jpeg",
+      "imgHover": "images/option1.imges/option1--img1.jpeg"
+    },
+    {
+      "id": 18,
+      "title": "Măng tô tay bổng",
+      "type": "",
+      "priceSale": 699000,
+      "price": 910000,
+      "img": "images/option1.imges/option1-img2.jpeg",
+      "imgHover": "images/option1.imges/option1--img2.jpeg"
+    },
+    {
+      "id": 19,
+      "title": "Blazer dáng ngắn cổ tròn",
+      "type": "",
+      "priceSale": 469000,
+      "price": 689000,
+      "img": "images/option1.imges/option1-img3.jpeg",
+      "imgHover": "images/option1.imges/option1--img3.jpeg"
+    },
+    {
+      "id": 20,
+      "title": "Set Blazer răng sói",
+      "type": "",
+      "priceSale": 599000,
+      "price": 889000,
+      "img": "images/option1.imges/option1-img4.jpeg",
+      "imgHover": "images/option1.imges/option1--img4.jpeg"
+    },
+    {
+      "id": 21,
+      "title": "Sơ mi cổ trụ gấu vát",
+      "type": "",
+      "priceSale": 249000,
+      "price": 270000,
+      "img": "images/option1.imges/option1-img5.jpeg",
+      "imgHover": "images/option1.imges/option1--img5.jpeg"
+    },
+    {
+      "id": 22,
+      "title": "Set Blazer cổ tròn",
+      "type": "",
+      "priceSale": 549000,
+      "price": 789000,
+      "img": "images/option1.imges/option1-img6.jpeg",
+      "imgHover": "images/option1.imges/option1--img6.jpeg"
+    },
+    {
+      "id": 23,
+      "title": "Áo khoác HT ngăn",
+      "type": "",
+      "priceSale": 499000,
+      "price": 600000,
+      "img": "images/option1.imges/option1-img7.jpeg",
+      "imgHover": "images/option1.imges/option1--img7.jpeg"
+    },
+    {
+      "id": 24,
+      "title": "Blazer tweed 2 CV",
+      "type": "",
+      "priceSale": 579000,
+      "price": 799000,
+      "img": "images/option1.imges/option1-img8.jpeg",
+      "imgHover": "images/option1.imges/option1--img8.jpeg"
+    },
+    {
+      "id": 25,
+      "title": "Sét Blazer tay dài CV",
+      "type": "",
+      "priceSale": 699000,
+      "price": 1049000,
+      "img": "images/option1.imges/option1-img9.jpeg",
+      "imgHover": "images/option1.imges/option1--img9.jpeg"
+    }
+  ]
+}
